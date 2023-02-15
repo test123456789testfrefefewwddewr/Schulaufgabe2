@@ -1,0 +1,73 @@
+.mittig {
+			text-align: center;
+			}
+h2		{
+		font-size: 20pt;
+		/* wird für index.html bereits durch class="mittig" erzeugt, center wäre hier also nicht notwendig*/
+		text-align: center;
+		background-color: #6e2703;
+		color: #DDD8C4;
+		font-style: italic;
+		
+		}
+h1		{
+		font-size: 28pt;
+		/* wird für index.html bereits durch class="mittig" erzeugt, center wäre hier also nicht notwendig*/
+		text-align: center;
+		color: #6e2703;
+		}
+li	{ color: #AB5522;
+	list-style-type:disc;
+	font-size: 30pt;
+	}
+		
+		
+b,i		{
+		color: #B4521A;
+		
+		}
+h4		{
+		text-indent: 20pt;
+		font-size: 15pt;
+		
+		}
+body	{
+		font-family: calibri, sans-serif;
+		background-color: #DDD8c4;
+		margin: 0px;
+		}
+
+#sonderformat	{
+		background-color: #A49554;
+		color: white;
+		font-size: 16pt;
+		text-indent:25pt;
+		}
+.pictures {
+		  text-align: center;
+		  }
+.angebot	{
+			font-size: 28pt;
+			color:red;
+			}
+.einrücken{
+			text-indent: 20pt;
+}
+a:link		{color:#B4521A;
+			font-weight:bold;
+			text-decoration: underline;
+}
+a:visited	{color:grey;
+			font-weight: bold;
+			text-decoration: none;
+}
+a:hover		{ color:green;
+			text-decoration: underline;
+}
+.Text {
+	font-size: 15pt;
+}
+.rechts {
+	text-align:right;
+}
+	
